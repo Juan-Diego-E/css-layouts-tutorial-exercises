@@ -3,17 +3,10 @@ body {
 }
 #sectionA {
 	background: blue;
-	width: 33%;
 }
 #sectionB {
 	background: red;
-	width: 33%;
 }
 #sectionC {
 	background: green;
-	width: 33%;
-}
-
-#wrapper {
-	display: flex;
 }
